@@ -1,0 +1,13 @@
+.table-styled {
+  background-color: #63abea;
+  border: 2px solid white;
+  color: white;
+  width: 100%; /* Make the table take the full width */
+  border-collapse: collapse; /* Collapse borders to ensure consistent styling */
+}
+
+.table-styled th, .table-styled td {
+  padding: 15px; /* Increase cell padding for a larger size */
+  border: 1px solid white; /* Add borders between cells */
+}
+
